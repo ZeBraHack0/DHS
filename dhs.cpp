@@ -590,7 +590,7 @@ bool cmp2(pair<int,int>p1, pair<int,int>p2)
 
 int main()
 {
-	ReadInTraces("../../../data/");
+	ReadInTraces("data/");
 	ofstream out("./dms4.txt");
 	ofstream state("./state4.txt");
 	

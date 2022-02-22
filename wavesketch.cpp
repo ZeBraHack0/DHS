@@ -179,7 +179,7 @@ bool cmp2(pair<int,int>p1, pair<int,int>p2)
 
 int main()
 {
-	ReadInTraces("../../../data/");
+	ReadInTraces("data/");
 	ofstream out("./ws.txt");
 	for(int i = 0; i<10; i++)
 	{
